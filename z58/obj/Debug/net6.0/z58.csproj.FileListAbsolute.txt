@@ -1,0 +1,15 @@
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.csproj.AssemblyReference.cache
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.AssemblyInfoInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.AssemblyInfo.cs
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.csproj.CoreCompileInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\bin\Debug\net6.0\z58.exe
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\bin\Debug\net6.0\z58.deps.json
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\bin\Debug\net6.0\z58.runtimeconfig.json
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\bin\Debug\net6.0\z58.dll
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\bin\Debug\net6.0\z58.pdb
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.dll
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\refint\z58.dll
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.pdb
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\z58.genruntimeconfig.cache
+C:\Users\xikka\Desktop\проги для учебы\ДЗ к семинару 8\dzS8\z58\obj\Debug\net6.0\ref\z58.dll
